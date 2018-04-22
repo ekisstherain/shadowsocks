@@ -23,12 +23,9 @@
 
 ## 6 浏览器设置教程
 
-1. [Firefox 浏览器设置教程 （扩展 Foxyproxy-Standard ）](https://github
-.com/ekisstherain/shadowsocks/blob/master/6-1-firefox-settings.md)
-2. [Chrome 浏览器设置教程 （扩展 Proxy SwitchyOmega）](https://github
-                                            .com/ekisstherain/shadowsocks/blob/master/6-2-chrome-settings.md)
-3. [Firefox Quantum (Firefox 57 以上版本) 浏览器设置教程 （扩展 Proxy SwitchyOmega）](https://github
-                                                                       .com/ekisstherain/shadowsocks/blob/master/6-3-firefox-quantum-settings.md)
+1. [Firefox 浏览器设置教程 （扩展 Foxyproxy-Standard ）](https://github.com/ekisstherain/shadowsocks/blob/master/6-1-firefox-settings.md)
+2. [Chrome 浏览器设置教程 （扩展 Proxy SwitchyOmega）](https://github.com/ekisstherain/shadowsocks/blob/master/6-2-chrome-settings.md)
+3. [Firefox Quantum (Firefox 57 以上版本) 浏览器设置教程 （扩展 Proxy SwitchyOmega）](https://github.com/ekisstherain/shadowsocks/blob/master/6-3-firefox-quantum-settings.md)
 
 ## 7 Proxifier 设置教程
 
